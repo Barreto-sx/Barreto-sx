@@ -20,7 +20,7 @@
 
 ## `> 01_SOBRE_MIM.log`
 
-<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" />
+<img align="top" width="520" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" />
 
 ```yaml
 usuario: Bruno Barreto
@@ -34,11 +34,6 @@ objetivo: >
   e ingressar na faculdade de Ciência da Computação.
 status: "compilando os primeiros conhecimentos..."
 ```
-
-- 🌱 Ainda no início da jornada, mas com muita vontade de evoluir
-- 💻 Comecei estudando Front-end e caminhando para Full Stack
-- 🎓 Objetivo: cursar Ciência da Computação
-- 📡 Sinal aberto para trocar ideia, aprender e colaborar
 
 <br clear="right"/>
 
