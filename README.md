@@ -20,8 +20,8 @@
 
 ## `> SOBRE_MIM.log`
 
-<img align="top" width="575" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" />
-<img align="top" width="575" src="gifs/rayquaza2.gif" />
+<img align="center" width="auto" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" />
+<img align="center" width="auto" src="gifs/rayquaza2.gif" />
 
 ```yaml
 usuario: Bruno Barreto
@@ -35,7 +35,7 @@ objetivo: >
   e ingressar na faculdade de Ciência da Computação.
 status: "compilando os primeiros conhecimentos..."
 ```
-<img align="top" width="575" src="gifs/rayquaza1.gif"/>
+<img align="center" width="auto" src="gifs/rayquaza1.gif"/>
 
 <br clear="right"/>
 
