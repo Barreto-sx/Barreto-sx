@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=C77DFF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=90&lines=%3E+Booting+Bruno.exe...;%3E+Loading+modules%3A+Hardware+%2B+Software;%3E+Access+Granted+%F0%9F%9F%A2;%3E+Welcome+to+my+mainframe" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=C77DFF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=150&lines=%3E+Booting+Bruno.exe...;%3E+Loading+modules%3A+Hardware+%2B+Software;%3E+Access+Granted+%F0%9F%9F%A2;%3E+Welcome+to+my+mainframe" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -18,9 +18,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=c77dff&height=2&section=header" width="100%"/>
 
-## `> 01_SOBRE_MIM.log`
+## `> SOBRE_MIM.log`
 
-<img align="top" width="520" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" />
+<img align="top" width="575" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" />
 
 ```yaml
 usuario: Bruno Barreto
