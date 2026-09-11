@@ -20,9 +20,6 @@
 
 ## `> SOBRE_MIM.log`
 
-<img text-align="center" width="max" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" />
-<img text-align="center" width="max" src="gifs/rayquaza2.gif" />
-
 ```yaml
 usuario: Bruno Barreto
 classe: Estudante // Iniciante em Desenvolvimento
@@ -35,8 +32,6 @@ objetivo: >
   e ingressar na faculdade de Ciência da Computação.
 status: "compilando os primeiros conhecimentos..."
 ```
-<img text-align="center" width="max" src="gifs/rayquaza1.gif"/>
-
 <br clear="right"/>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=c77dff&height=2&section=header" width="100%"/>
@@ -124,7 +119,6 @@ status: "compilando os primeiros conhecimentos..."
 ## `> 05_OBJETIVOS_ATUAIS.terminal`
 
 ```bash
-bruno@dev-machine:~$ cat objetivos.txt
 
 [~] Estudando atualmente: Front-end (HTML, CSS, JavaScript)
 [ ] Evoluir para Full Stack
@@ -132,60 +126,17 @@ bruno@dev-machine:~$ cat objetivos.txt
 [ ] Construir e publicar meus primeiros projetos
 [ ] Praticar lógica de programação todos os dias
 
-bruno@dev-machine:~$ echo "status: iniciante em evolução constante"
-status: iniciante em evolução constante ████████░░░░░░░░░░░░  35%
 
-bruno@dev-machine:~$ _
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=c77dff&height=2&section=header" width="100%"/>
 
-## `> 06_ESTATÍSTICAS.dat`
+
+## `> REDES_CONECTADAS.link`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=c77dff&icon_color=9d4edd&text_color=c9d1d9&border_radius=12" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=c77dff&text_color=c9d1d9&border_radius=12" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=dark&hide_border=true&background=0D1117&stroke=c77dff&ring=9d4edd&fire=e0aaff&currStreakLabel=c77dff&border_radius=12" />
-
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=react-dark&hide_border=true&bg_color=0d1117&color=c77dff&line=9d4edd&point=ffffff&area=true&area_color=c77dff" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=c77dff&height=2&section=header" width="100%"/>
-
-## `> 07_TROFÉUS.badge`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=c77dff&height=2&section=header" width="100%"/>
-
-## `> 08_CONTRIBUIÇÕES.exe`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-</div>
-
-> ⚙️ **Configuração necessária:** a animação da cobrinha (Snake) precisa de um GitHub Action configurado no seu repositório de perfil (`SEU_USUARIO/SEU_USUARIO`). Veja o passo a passo logo abaixo na seção de instruções.
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=c77dff&height=2&section=header" width="100%"/>
-
-## `> 09_REDES_CONECTADAS.link`
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/SEU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=c77dff"/></a>
+<a href="https://www.linkedin.com/in/bruno-barreto6747673ba"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=c77dff"/></a>
 <a href="https://www.instagram.com/SEU_USUARIO"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=c77dff"/></a>
 <a href="mailto:SEU_EMAIL@exemplo.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=c77dff"/></a>
 <a href="https://discord.com/users/SEU_USUARIO"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=c77dff"/></a>
@@ -196,14 +147,6 @@ bruno@dev-machine:~$ _
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=c77dff&height=2&section=header" width="100%"/>
 
 <div align="center">
-
-### `> SYSTEM_LOG: visitante detectado`
-
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=c77dff&style=for-the-badge&label=VISUALIZAÇÕES" alt="Profile Views" />
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9d4edd,50:5b0e91,100:1a0033&height=150&section=footer&text=%3C%2F%20Fim%20de%20transmiss%C3%A3o%20%3E&fontSize=20&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 **"Código bem escrito é a engenharia mais elegante que existe."**
 
